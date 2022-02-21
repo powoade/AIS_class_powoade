@@ -1,3 +1,0 @@
-#
-To compile:
-g++ -o vibTS vibTS.cpp ../genVibSeq.cpp -lm
