@@ -1,4 +1,4 @@
-Files for Lab02
+Files for Lab02:
 
 lab2 - Experiment 1
 lab2Exp2 - Experiment 2
